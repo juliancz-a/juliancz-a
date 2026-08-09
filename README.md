@@ -23,7 +23,4 @@ Tech enthusiast. Web-dev, game-dev, and hardware in general.
 # 🌐 Contact with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julian-caceres-a797a3189) 
  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=juliancz-a&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=juliancz-a&theme=city_lights&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=juliancz-a&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
